@@ -1,6 +1,0 @@
-dans parsing.c, la 4 eme fonction : compare
-
-avant j ai jste initialiser a list avec les argv et malloc tout mes maillon (dans init_stack.c)
-quand les nbr sont dans l ordre il exit
-et c est la que j arrive pas a trouer les leaks.
-
